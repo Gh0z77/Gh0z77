@@ -30,5 +30,5 @@ I also do 3D: scenes and models in Blender, rendered live in the browser with Th
 | [yesmine-boutique-suite](https://github.com/Gh0z77/yesmine-boutique-suite) | Full e-commerce store for a women's clothing brand | TanStack Start, Supabase |
 | [yesmine-panel](https://github.com/Gh0z77/yesmine-panel) | Staff panel with role-based access enforced in the database (RLS) | React, Supabase, PostgreSQL |
 | [gracia-digital-elegance](https://github.com/Gh0z77/gracia-digital-elegance) | Restaurant website with menu, pre-orders and table booking · [live](https://gracia-digital-elegance.vercel.app) | TanStack Start, Supabase |
-| [ad-post-bot](https://github.com/Gh0z77/ad-post-bot) | Telegram bot that posts scheduled ads to groups, with an admin panel | Python, aiogram, Flask |
+| [ad-post-bot](https://github.com/Gh0z77/ad-post-bot) | Telegram bot that posts scheduled ads to groups, with an admin panel | Python, python-telegram-bot, Flask |
 | [Portifolio-web-site](https://github.com/Gh0z77/Portifolio-web-site) | My cyberpunk-terminal portfolio with admin panel and 3 languages · [live](https://portifolio-web-site-three.vercel.app) | React, Supabase, Framer Motion |
